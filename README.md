@@ -24,21 +24,7 @@ It includes problem-solving exercises, small programs, and beginner-level web pa
 
 ---
 
-## 📂 Repository Structure
 
-```
-C-HTML-Practice/
-│── C-Programs/
-│   ├── basics/
-│   ├── loops/
-│   ├── arrays/
-│   ├── functions/
-│
-│── HTML/
-│   ├── basic-pages/
-│   ├── forms/
-│   ├── layouts/
-```
 
 ---
 
@@ -63,36 +49,7 @@ C-HTML-Practice/
 
 ---
 
-## 🚀 Learning Outcome
 
-Through this repository, I have:
-
-* Developed a strong understanding of programming fundamentals
-* Improved logical thinking and problem-solving skills
-* Gained hands-on experience with basic web page creation
-
----
-
-## 📸 Sample Work
-
-(Add screenshots of your HTML pages here)
-
----
-
-## ⚙️ How to Run
-
-### ▶️ C Programs
-
-```bash
-gcc filename.c -o output
-./output
-```
-
-### 🌐 HTML Files
-
-Simply open the `.html` file in any web browser.
-
----
 
 ## 📈 Future Improvements
 
@@ -108,7 +65,3 @@ This is a personal learning repository, but suggestions are always welcome.
 
 ---
 
-## 📬 Contact
-
-* LinkedIn: (your link)
-* GitHub: (your profile)
